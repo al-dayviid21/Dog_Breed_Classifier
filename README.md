@@ -4,15 +4,14 @@
 1. Installation
 2. Project Summary
 3. File Descriptions
-4. Instructions
+4. Results
 5. Licensing, Authors, and Acknowledgements
 
 ## Installation
 The necessary libraries to run the code here are found <a href=''>requirements.txt</a>. The code should run with no issues using Python versions 3.*.
 
 ## Project Summary
-This project is a web app where an emergency worker can input a new message that were sent during disaster events and get classification results in several categories so that they can be sent an appropriate disaster relief agency. The web app will also display visualizations of the data pecularities. 
-
+In this project, a Convolutional Neural Network pipeline that can be used within a web or mobile app to process real-world, user-supplied images was built.  Given an image of a dog, the CNN model will identify an estimate of the canine’s breed.  If supplied an image of a human, the CNN model will identify the resembling dog breed.  
 ## File Descriptions
 The file structure for the project with descriptions are shown below:
 
@@ -46,19 +45,8 @@ Udacity-Disaster-Response
 
 README.md
 
-## Instructions
-1. Run the following commands in the project's root directory to set up your database and model.
-
-    - To run ETL pipeline that cleans data and stores in database
-        `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves
-        `python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl`
-
-2. Go to `app` directory: `cd app`
-
-3. Run your web app: `python run.py`
-
-4. Click the `PREVIEW` button to open the homepage
+## Results
+A detailed explanation of project aim, steps and results can be found in my <a href=''>Medium blog post</a> 
 
 ## Licensing, Authors, and Acknowledgements
-Credit is due Appen for the dataset and Udacity for their guide during the formation of project codes.
+Credit is due Udacity for the dataset and their guide during the formation of project codes. Udacity license can be found in <a href=''>license.txt</a>
