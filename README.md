@@ -8,7 +8,7 @@
 5. Licensing, Authors, and Acknowledgements
 
 ## Installation
-The necessary libraries to run the code here are found <a href=''>requirements.txt</a>. The code should run with no issues using Python versions 3.*.
+The necessary libraries to run the code here are found <a href='https://github.com/al-dayviid21/Dog_Breed_Classifier/blob/main/requirements.txt'>requirements.txt</a>. The code should run with no issues using Python versions 3.*.
 
 ## Project Summary
 In this project, a Convolutional Neural Network pipeline that can be used within a web or mobile app to process real-world, user-supplied images was built.  Given an image of a dog, the CNN model will identify an estimate of the canine’s breed.  If supplied an image of a human, the CNN model will identify the resembling dog breed.  
@@ -49,4 +49,4 @@ README.md
 A detailed explanation of project aim, steps and results can be found in my <a href=''>Medium blog post</a> 
 
 ## Licensing, Authors, and Acknowledgements
-Credit is due Udacity for the dataset and their guide during the formation of project codes. Udacity license can be found in <a href=''>license.txt</a>
+Credit is due Udacity for the dataset and their guide during the formation of project codes. Udacity license can be found in <a href='https://github.com/al-dayviid21/Dog_Breed_Classifier/blob/main/license.txt'>license.txt</a>
