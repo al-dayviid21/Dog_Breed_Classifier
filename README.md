@@ -17,33 +17,31 @@ The file structure for the project with descriptions are shown below:
 
 Udacity-Disaster-Response
 
-| - app
+| - haarcascades (folder)
 
-| |- template
+| |- haarcascade_frontalface_alt.xml
 
-| | |- master.html # main page of web app
+| - images (folder)
 
-| | |- go.html # classification result page of web app
+| | - series of images 
 
-| |- run.py # Flask file that runs app
+| - models (folder)
 
-| - data
+| |- weights.best.from_scratch.hdf5
 
-| |- disaster_categories.csv # data to process
+| |- weights.best.Resnet50.hdf5
 
-| |- disaster_messages.csv # data to process
+| |- weights.best.VGG16.hdf5
 
-| |- process_data.py # Python file that processes the data
+| - LICENSE.txt
 
-| |- DisasterResponse.db # database to save clean data to
+| - README.md
 
-| - models
+| - dog_app.ipynb 
 
-| |- train_classifier.py # Python file that trains and evaluates the model
+| - requirements.txt 
 
-| |- classifier.pkl # saved model
 
-README.md
 
 ## Results
 A detailed explanation of project aim, steps and results can be found in my <a href='https://medium.com/@davidalabintei97/create-a-dog-breed-classifier-you-can-proud-of-2d1d4cf97517'>Medium blog post</a> 
