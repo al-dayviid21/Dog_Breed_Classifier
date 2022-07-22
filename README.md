@@ -46,7 +46,7 @@ Udacity-Disaster-Response
 README.md
 
 ## Results
-A detailed explanation of project aim, steps and results can be found in my <a href=''>Medium blog post</a> 
+A detailed explanation of project aim, steps and results can be found in my <a href='https://medium.com/@davidalabintei97/create-a-dog-breed-classifier-you-can-proud-of-2d1d4cf97517'>Medium blog post</a> 
 
 ## Licensing, Authors, and Acknowledgements
 Credit is due Udacity for the dataset and their guide during the formation of project codes. Udacity license can be found in <a href='https://github.com/al-dayviid21/Dog_Breed_Classifier/blob/main/license.txt'>license.txt</a>
